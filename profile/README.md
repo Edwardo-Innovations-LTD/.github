@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="logo.png" alt="Edwardo Innovations Logo" width="200"/>
+<p align="left">
+  <img src="Horizontal1.png" alt="Edwardo Innovations Logo" width="full"/>
 </p>
 
-# 🚀 Edwardo Innovations Ltd
+---
 
 **Innovating the Future, One Solution at a Time.**  
 
